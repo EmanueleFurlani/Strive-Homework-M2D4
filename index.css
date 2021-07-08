@@ -1,0 +1,42 @@
+
+#team-blue {
+    background-color: dodgerblue;
+  }
+  
+#team-red {
+    background-color: tomato;
+  }
+  
+#team-green {
+    background-color: rgb(115, 218, 19);
+  }
+  
+#team-orange {
+    background-color: orange;
+  }
+  
+#team-grey {
+    background-color: #686868;
+  }
+
+#team-yellow {
+      background-color: yellow;
+  }
+
+.bg-light {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(46, 41, 136) 0%, rgba(227,84,202,1) 44%, rgba(0,212,255,1) 100%);
+  }
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(46, 41, 136) 0%, rgb(143, 74, 131) 44%, rgba(0,212,255,1) 100%);
+}
+
+.modal-footer {
+    border-top: none;
+}
